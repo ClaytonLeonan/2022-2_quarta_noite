@@ -14,6 +14,14 @@ Turma 22
 
 ## Preparação do ambiente de desenvolvimento
 
+A preparação do ambiente de desenvolvimento com FLutter é bastante simples, mas requer muita atenção.
+
+Na primeira aula da disciplina fizemos um pequeno passo a passo do processo.
+
+[MATERIAL COM A PREPARAÇÃO DO AMBIENTE](https://docs.google.com/document/d/1vA-dftyg8OHWYyRNl0IwqCFC0Z7Oxa66w9xryBXdcOM/edit?usp=sharing)
+
+Lembre-se que para acessar o link acima é preciso utilizar sua conta institucional (@uni9.edu.br).
+
 ## Critérios de avaliação
 
 A média final do professor (AV1) é dada única e exclusicamente pela média das atividades.
